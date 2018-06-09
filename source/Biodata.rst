@@ -4,75 +4,61 @@
 Biodata
 =======
 
-.. figure:: images/Nantanit.jpg
-   :alt: Nantanit Sutthiruk 
+.. figure:: images/Suphaporn.jpg
+   :alt: Suphaporn Chaovarindr 
    :scale: 25%
    :align: center
    
-   **Nantanit Sutthiruk**
+   **Suphaporn Chaovarindr**
 	
-**2014 - Present**
-		Ph.D. Candidate, Faculty of Health, School of Nursing & Midwifery, Deakin University, Melbourne, Australia.
-
+**2017 - Present**
+	Sale & Marketing Marketing Manager, AC Aviation Company Limited, Don Muang International Airport, Vibhavadee-Rangsit Road, Sanambin, Don Muang, Bangkok Thailand 10210
+	
 Educational Backgrounds
 -----------------------
 
-**2001** 	
+**201x** 	
 
-		*Bachelor Degree of Nursing*, Faculty of Medicine, Ramathibodi Hospital,
-		Mahidol University, Bangkok, Thailand 
+		*Bachelor Degree of *, Faculty of Kasetsart University, Bangkok, Thailand 
 		
-**2008** 	
+**201x** 	
 
-		*Master Degree of Nursing Administration*, Faculty of Nursing, Chulalongkorn University, Bangkok, Thailand
+		*Master Degree of *, Faculty of , New Castle University, New Castle, England
 
 Professional Training
 ---------------------
 
-**2004** 	
+**200x** 	
 
-		*Certificate of Infection Control Nursing Specialty*, Faculty of Medicine, Ramathibodi Hospital, Mahidol University, Bangkok, Thailand
+		*Certificate of *, Institution
 		
 Professional Career
 -------------------
 
 **2001-2007**	
 		
-		*Practical Registered Nurse for Organ Transplant*,  IPD Ward Practical Registered Nurse for Oncology Short-Stay OPD Ward Both concurrently practiced at Ramathibodi Hospital, Bangkok, Thailand
+		**, R Airlines, Bangkok, Thailand
 		
-**2007-2009**
-
-		*Infectious Control Nursing Specialist*, Ramathibodi Hospital, Bangkok, Thailand
-
-**2009-2013**
-
-		*Lecturer of Fundamental Nursing*, Department Faculty of Medicine, Ramathibodi School of Nursing, Mahidol University, Bangkok, Thailand
 		
 Extra Curricular Activities
 ---------------------------
 
-**2009**
+**200x**
 
-	Relationships between Internal Locus of Control, Job Characteristics, Supervision Management of Head Nurses and Nosocomial Infection and Control Behaviors of Staff Nurses in University Hospitals, a Master of Nursing Science Thesis (2009) (*Thai Journal of Nursing Council Vol.4 No.2 April-June 2009*)
 
-**2010-2011** 
+**20xx-20xx** 
 
-	Field Research for Community Health Education and Promotion in Rural Areas (in process of publication)
-	
-**2011**
-
-	Public Health & Humanitarian Services during the mega flood relief operations in lower basins of central Thailand (October - December 2011), 2012-2013 Urinary Catheterization Teaching Media CAI Development (in process of publication)
+		
 
 Professional Membership
 -----------------------
 
 **2012-2017**
 
-		*Registered Professional Nurse* (Thailand Nursing Council)
 
 		
 Contact
 --------
 
-	`nsutthir@deakin.deakin.edu.au <nsutthir@deakin.deakin.edu.au>`_
+	`s.chaovarindr@gmail.com <s.chaovarindr@gmail.com>`_
 		
