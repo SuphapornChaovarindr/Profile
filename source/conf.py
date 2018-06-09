@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# Nantanit Profile documentation build configuration file, created by
+# Suphaporn Chaovarindr Profile documentation build configuration file, created by
 # sphinx-quickstart on Thu Aug 27 15:42:26 2015.
 #
 # This file is execfile()d with the current directory set to its
@@ -47,9 +47,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Nantanit Profile'
-copyright = '2015, Nantanit Sutthiruk'
-author = 'Nantanit Sutthiruk'
+project = 'Suphaporn Chaovarindr Profile'
+copyright = '2018, Suphaporn Chaovarindr'
+author = 'Suphaporn Chaovarindr'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
