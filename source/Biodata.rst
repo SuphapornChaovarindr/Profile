@@ -3,10 +3,6 @@
 
 Biodata
 =======
-
-.. figure:: images/BewSuphaporn.png
-   :alt: Suphaporn Chaovarindr 
-   :scale: 15%
    
    **Suphaporn Chaovarindr**
 	
