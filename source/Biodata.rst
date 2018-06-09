@@ -6,7 +6,7 @@ Biodata
 
 .. figure:: images/Suphaporn.jpg
    :alt: Suphaporn Chaovarindr 
-   :scale: 25%
+   :scale: 15%
    :align: center
    
    **Suphaporn Chaovarindr**
