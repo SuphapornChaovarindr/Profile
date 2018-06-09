@@ -10,7 +10,7 @@ Welcome to Suphaporn Chaovarindr Profile
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    
    Biodata
    
