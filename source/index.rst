@@ -5,7 +5,7 @@ Welcome to Suphaporn Chaovarindr Profile
 
 .. figure:: images/BewSuphaporn.png
    :alt: Suphaporn Chaovarindr 
-   :scale: 10%
+   :scale: 5%
    
 Contents:
 
