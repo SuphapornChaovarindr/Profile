@@ -4,7 +4,7 @@
 Biodata
 =======
 
-.. figure:: images/"Screen Shot 2018-06-09 at 11.19.18 AM.png"
+.. figure:: images/BewSuphaporn.png
    :alt: Suphaporn Chaovarindr 
    :scale: 15%
    
