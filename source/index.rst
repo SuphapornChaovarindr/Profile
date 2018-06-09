@@ -1,10 +1,7 @@
-.. Nantanit Research documentation master file, created by
-   sphinx-quickstart on Thu Aug 27 13:59:12 2015.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. Suphaporn Chaovarindr Profile 
 
-Welcome to Nantanit Research's documentation!
-=============================================
+Welcome to Suphaporn Chaovarindr Profile
+========================================
 
 Contents:
 
