@@ -4,7 +4,7 @@
 Biodata
 =======
    
-   **Suphaporn Chaovarindr**
+   **Bew Suphaporn Chaovarindr**
 	
 **2017 - Present**
 	Sale & Marketing Marketing Manager, AC Aviation Company Limited, Don Muang International Airport, Vibhavadee-Rangsit Road, Sanambin, Don Muang, Bangkok Thailand 10210
