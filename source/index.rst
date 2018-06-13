@@ -1,7 +1,7 @@
 .. Suphaporn Chaovarindr Profile 
 
-Suphaporn Chaovarindr
-=====================
+Bew Suphaporn Chaovarindr
+=========================
 
 .. figure:: images/BewSuphaporn.png
    :alt: Suphaporn Chaovarindr 
