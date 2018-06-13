@@ -6,7 +6,7 @@ Bew Suphaporn Chaovarindr
 .. figure:: images/BewSuphaporn.png
    :alt: Suphaporn Chaovarindr 
    :scale: 25%
-   :align: center
+   :align: left
    
 Contents:
 
